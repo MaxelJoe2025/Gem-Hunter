@@ -1,0 +1,14 @@
+{
+  "name": "_1581_1575_1589_1583_32_1575_1604_1580_1608_1575_1607_1585_32",
+  "displayName": "حاصد الجواهر ",
+  "version": "1.0.1",
+  "description": "حاصد الجواهر ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": ""
+}
